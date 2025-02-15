@@ -1,0 +1,22 @@
+Warning[205] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 1 : Found directive in column 1. (PROCESSOR)
+Warning[205] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 3 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 6 : Found directive in column 1. (INCLUDE)
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 60 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 63 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 70 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 75 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 76 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 81 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 669 : Argument out of range.  Least significant bits used.
+Warning[202] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 672 : Argument out of range.  Least significant bits used.
+Warning[205] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 683 : Found directive in column 1. (INCLUDE)
+Message[305] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\LCDIS.INC 27 : Using default destination of 1 (file).
+Message[305] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\LCDIS.INC 37 : Using default destination of 1 (file).
+Message[305] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\LCDIS.INC 62 : Using default destination of 1 (file).
+Message[305] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\LCDIS.INC 128 : Using default destination of 1 (file).
+Warning[205] C:\USERS\CS NET GAMES\DESKTOP\5TH YEAR\REALTIME\WWWWW\CODEY\CODE.ASM 684 : Found directive in column 1. (END)
